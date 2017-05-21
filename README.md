@@ -1,13 +1,17 @@
 ![](http://www.upm.es/sfs/Rectorado/Gabinete%20del%20Rector/Logos/UPM/EscPolitecnica/EscUpmPolit_p.gif "UPM")
 # Trabajo final SITC
 ## Análisis de sentimientos en Twitter
+
 Departamento de Ingeniería de Sistemas Telemáticos. Universidad Politécnica de Madrid.
+
 Realizado por:
 - Juan Bermudo Mera
 - Margarita Bolívar Jiménez
 - Lourdes Fernández Nieto
 - Ramón Pérez Hernández
+
 © 2017
+
 Los notebooks están licenciado libremente bajo la licencia [Creative Commons Attribution Share-Alike](https://creativecommons.org/licenses/by/2.0/).
 
 La base del código empleado procede de los trabajos de:
